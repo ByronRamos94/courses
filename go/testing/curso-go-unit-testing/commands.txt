@@ -1,0 +1,6 @@
+go test ./controller -coverprofile=coverage.out
+go tool cover -html=coverage.out    
+
+* run benchmark
+go test ./util -run=Parser -bench=bench.old
+go test -benchmem -run=^$ -bench ^BenchmarkParser$ catching-pokemons/util

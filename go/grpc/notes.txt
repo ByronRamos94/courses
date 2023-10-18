@@ -1,0 +1,22 @@
+Estilos Arquitectónicos
+Monolítico
+Consiste en crear una aplicación autosuficiente que contenga absolutamente toda la funcionalidad necesaria para realizar la tarea para la cual fue diseñada.
+Microservicios
+Consiste en crear pequeños componentes de software que solo hacen una tarea, la hace bien y son totalmente autosuficientes.
+Service Oriented Arcitecture SOA
+Tecnología que utiliza un conjunto de protocolos y estándares para intercambiar datos entre aplicaciones, desarrolladas en lenguajes de programación diferentes, y ejecutadas sobre cualquier plataforma.
+Event Driven Architecture EDA
+Es una arquitectura asíncrona y distribuida, pensada para crear aplicaciones altamente escalables, que promueve la producción, detección, consumo reacción a eventos.
+Representational State Transfer Rest
+Conjunto de restricciones arquitectónicas que enfatizan la escalabilidad, utilice HTTP para obtener datos o indicar la ejecución de operaciones sobre ellos.
+.
+Protobuff:
+Los Protocol Buffers, también conocidos como protobuf, son un formato binario que facilita el almacenamiento e intercambio de datos en aplicaciones​. Fue desarrollado por Google Inc. y publicado parcialmente bajo una licencia BSD de 3 cláusulas.
+.
+
+gRCP
+Es un sistema de llamada a procedimiento remoto de código abierto desarrollado inicialmente en Google. Utiliza como transporte HTTP/2 y Protocol Buffers como lenguaje de descripción de interfaz.
+.
+
+Serialización
+En ciencias de la computación, la serialización consiste en un proceso de codificación de un objeto en un medio de almacenamiento con el fin de transmitirlo a través de una conexión de red como una serie de bytes o en un formato humanamente más legible como XML o JSON.
