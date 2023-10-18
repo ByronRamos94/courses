@@ -1,0 +1,14 @@
+Rest API
+
+Control de datos (Server)
+Datos innecesarios
+N solicitudes
+X Endpoints
+Dependencia de equipos
+GraphQL
+
+Control de datos (Client)
+Datos necesarios
+1 solicitud
+1 Endpoint
+Independencia de equipos
